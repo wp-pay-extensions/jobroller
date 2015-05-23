@@ -8,7 +8,7 @@
  * @author Remco Tolsma
  * @version 1.0
  */
-class Pronamic_JobRoller_JobRoller {
+class Pronamic_WP_Pay_Extensions_JobRoller_JobRoller {
 	/**
 	 * Check if JobRoller is active (Automattic/developer style)
 	 *
