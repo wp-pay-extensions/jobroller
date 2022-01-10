@@ -1,4 +1,4 @@
-# WordPress Pay Extension: JobRoller
+# [DEPRECATED] WordPress Pay Extension: JobRoller
 
 **JobRoller driver for the WordPress payment processing library.**
 
